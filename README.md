@@ -1,3 +1,4 @@
+![logo](https://github.com/nitinsaini7015/nitinsaini7015/blob/main/Git%20img%20(2).png)
 <h1 align="center">Hi 👋, I'm Nitin saini</h1>
 <h3 align="center">BCA Student | Aspiring Web Developer 🚀 | Learning & Building Projects</h3>
 
